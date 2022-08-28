@@ -1,3 +1,3 @@
 # react-280822
 homework
-https://boriskaminskiy.github.io/react-280822
+react-280822-boriskaminskiy.vercel.app
